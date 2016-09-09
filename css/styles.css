@@ -16,3 +16,23 @@ body {
   padding: 2px;
   background-color: #C0C0C0;
 }
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.contact {
+  float: right;
+}
+
+.numbered li {
+  font-style: italic;
+}
